@@ -5,7 +5,6 @@ Welcome to the repository for **mlcourse.ai** exercises! This repository contain
 ## Table of Contents
 
 - [Overview](#overview)
-- [Installation](#installation)
 - [Course Structure](#course-structure)
 - [Exercises](#exercises)
   - [Assignment 1](#assignment-1)
